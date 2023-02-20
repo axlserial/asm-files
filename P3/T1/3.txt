@@ -1,0 +1,1 @@
+El soporte MIO de aplicaciones con su GUI llegara a Windows 10 muy pronto.

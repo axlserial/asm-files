@@ -1,0 +1,2 @@
+Tanto MIO Windows 10 como Chrome OS llevan tiempo trabajando en la forma de que estas plataformas coexistan
+con aplicaciones Linux de forma nativa, y este sera el anio que veremos ese soporte llevado al ultimo extremo.

@@ -1,0 +1,5 @@
+Ese soporte, que hasta la fecha era beta, esta ahora validado totalmente por Google. Aunque el
+sistema operativo esta en realidad basado en Linux, no fue hasta 2018 que la empresa comenzo a
+ofrecer soporte para un terminal Linux. Esa capacidad fue mejorando y en esta inminente version
+de Chrome OS se ofreceran mejoras adicionales como soporte adicional para dispositivos USB o
+una nueva aplicacion de consola.

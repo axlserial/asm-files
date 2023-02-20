@@ -1,0 +1,4 @@
+Eso hara que en muchos casos sea innecesario instalar Linux en una particion de sistema diferente
+y configurar un arranque dual. Tampoco hace falta ya crear maquinas virtuales Linux en otros muchos
+casos, y para la mayoria de los usuarios la propuesta de Microsoft dara acceso a lo mejor de ambos 
+mundos.

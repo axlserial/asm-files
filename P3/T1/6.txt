@@ -1,0 +1,4 @@
+Lo mismo parece perseguir Google, que tambien lleva tiempo trabajando en integrar aplicaciones
+de Linux en su plataforma Chrome OS. Durante la celebracion de Google I/O 2021 se celebro una
+sesion en la que precisamente se adelanto que Chrome OS 91 /que llegara en pocas semanas/ ofrecera
+soporte de aplicaciones Linux estable.

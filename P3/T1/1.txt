@@ -1,0 +1,1 @@
+NO hace MIO falta que instales una distribucion de Linux en tu equipo. Tampoco que uses virtualizacion.

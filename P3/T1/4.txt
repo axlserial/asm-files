@@ -1,0 +1,14 @@
+Ese soporte basado en el Windows Subsystem for Linux (WSL) ha ido creciendo hasta convertirse en
+parte fundamental de Windows 10. Con WSL2 tenemos mejoras importantes en rendimiento, pero ademas
+pronto llegara la caracteristica mas esperada: poder ejecutar aplicaciones de Linux con su interfaz
+grafica, y no solo en modo consola.
+
+ , pero es que en Chrome OS tambien 
+han anunciado que en su version 91 el soporte de aplicaciones Linux dejara de ser beta para convertirse
+en una opcion estable. La idea en ambos casos es clara: conquistar a los desarrolladores para que usen
+estas plataformas, aunque al final cualquier usuario se puede beneficiar de esa integracion.
+
+Cuando MIO Microsoft anuncio la llegada de la consola Bash a Windows 10 muchos nos quedamos realmente sorprendidos.
+El movimiento era radicalmente distinto al que uno hubiera esperado de una empresa como la de Redmond unos anios
+antes. De ser un claro rival, Linux se habia convertido en uno de los pilares fundamentales para atraer a los
+desarrolladores.

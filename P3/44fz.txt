@@ -1,0 +1,7 @@
+NO hace MIO falta que instales una distribucion de Linux en tu equipo. Tampoco que uses virtualizacion.
+Tanto Windows 10 como Chrome OS llevan tiempo trabajando en la forma de que estas plataformas coexistan
+con aplicaciones Linux de forma nativa, y este sera el anio que veremos ese soporte llevado al ultimo extremo.
+El soporte de aplicaciones con su GUI llegara a Windows 10 muy pronto, pero es que en Chrome OS tambien 
+han anunciado que en su version 91 el soporte de aplicaciones Linux dejara de ser beta para convertirse
+en una opcion estable. La idea en ambos casos es clara: conquistar a los desarrolladores para que usen
+estas plataformas, aunque al final cualquier usuario se puede beneficiar de esa integracion.
